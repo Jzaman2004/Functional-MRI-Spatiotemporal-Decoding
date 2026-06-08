@@ -1,0 +1,12 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.9
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+nilearn>=0.10
+nibabel>=5.0
+datalad>=0.17
+git-annex>=8.202
+torch>=2.0
+tqdm
