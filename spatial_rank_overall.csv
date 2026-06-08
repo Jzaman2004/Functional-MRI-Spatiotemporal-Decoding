@@ -1,0 +1,49 @@
+Region,Overall_Mean_Abs_Weight,SEM
+Frontal Opercular Cortex,0.0012512456,0.00027916324
+Subcallosal Cortex,0.0011893713,0.00028065298
+"Parahippocampal Gyrus, posterior division",0.0009932346,0.00024588316
+"Parahippocampal Gyrus, anterior division",0.0008856192,0.00019081222
+Planum Polare,0.00086103164,0.000117667965
+Heschl's Gyrus (includes H1 and H2),0.0008052926,0.00052197423
+Insular Cortex,0.00075427286,0.000102703365
+"Inferior Temporal Gyrus, anterior division",0.00068716955,0.0001912631
+"Cingulate Gyrus, anterior division",0.000677562,0.00017765215
+Frontal Medial Cortex,0.0006765637,0.0002023128
+"Temporal Fusiform Cortex, posterior division",0.00067189784,0.00017323394
+Occipital Fusiform Gyrus,0.0006258947,0.00025416363
+"Superior Temporal Gyrus, anterior division",0.00062046765,0.00014868121
+"Middle Temporal Gyrus, anterior division",0.000618663,0.00013115525
+"Temporal Fusiform Cortex, anterior division",0.0005895665,0.00018693415
+Frontal Orbital Cortex,0.00055404217,0.00013549939
+Temporal Pole,0.0005090922,0.00015030625
+Intracalcarine Cortex,0.0004984606,0.00021273691
+Paracingulate Gyrus,0.00044117722,0.00010068201
+Planum Temporale,0.000406739,0.00020900034
+Lingual Gyrus,0.00039821793,0.00016286851
+Supracalcarine Cortex,0.0003967396,0.00024010627
+Temporal Occipital Fusiform Cortex,0.00037017293,0.00011773883
+"Middle Temporal Gyrus, posterior division",0.00036394488,0.00014555032
+"Inferior Temporal Gyrus, posterior division",0.0003593963,9.580925e-05
+Central Opercular Cortex,0.00033545785,0.00012207744
+"Inferior Temporal Gyrus, temporooccipital part",0.0002907021,0.00013218085
+Precuneous Cortex,0.00025177782,9.198787e-05
+"Cingulate Gyrus, posterior division",0.00024215724,8.6160035e-05
+"Superior Temporal Gyrus, posterior division",0.00022899969,8.904184e-05
+Cuneal Cortex,0.00021544489,0.00010918499
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.00020935269,0.00010642262
+Frontal Pole,0.00020560085,4.5504003e-05
+Parietal Opercular Cortex,0.00018786256,7.363765e-05
+"Inferior Frontal Gyrus, pars opercularis",0.00017525276,5.0156206e-05
+"Inferior Frontal Gyrus, pars triangularis",0.00016817116,5.1759234e-05
+"Lateral Occipital Cortex, inferior division",0.0001599282,5.5648106e-05
+"Middle Temporal Gyrus, temporooccipital part",0.00013367529,6.05549e-05
+"Supramarginal Gyrus, anterior division",0.00010386146,6.0319486e-05
+Angular Gyrus,8.60483e-05,4.1420062e-05
+"Supramarginal Gyrus, posterior division",7.2000315e-05,3.8705355e-05
+Superior Frontal Gyrus,5.1638228e-05,2.9544548e-05
+"Lateral Occipital Cortex, superior division",4.9946815e-05,2.8833649e-05
+Superior Parietal Lobule,4.423082e-05,2.5209385e-05
+Precentral Gyrus,3.4909e-05,1.3210139e-05
+Postcentral Gyrus,3.349412e-05,2.0746364e-05
+Middle Frontal Gyrus,2.973618e-05,2.2145883e-05
+Occipital Pole,1.6190521e-05,9.9204635e-06

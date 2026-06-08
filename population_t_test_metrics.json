@@ -1,0 +1,14 @@
+{
+    "analysis_date": "2026-05-30",
+    "dataset": "OpenNeuro ds000001",
+    "sample_size_n": 16,
+    "degrees_of_freedom": 15,
+    "chance_baseline_pct": 50.0,
+    "calculated_population_mean_accuracy_pct": 64.10283251819617,
+    "standard_deviation_sd_pct": 6.317816713353372,
+    "standard_error_sem_pct": 1.579454178338343,
+    "one_sample_t_statistic": 8.928927924349777,
+    "high_precision_p_value": "0.000000217058",
+    "hypothesis_rejection_alpha_0_05": true,
+    "citable_methodology_string": "Mean Accuracy = 64.1028% +/- 1.5795% SEM; t(15) = 8.9289, p = 0.0000002171"
+}
